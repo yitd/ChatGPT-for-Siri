@@ -18,7 +18,7 @@ https://www.icloud.com/shortcuts/4d4bf8ee55824e4680dcc541d490d7d3 （iCloud）
 
 https://aichatgpt.me/
 
-💰 在这里您可以购买账号和APIKEY（支持一下）：
+💰 在这里您可以购买ChatGPT账号和APIKEY（支持一下）：
 
 https://pay.aichatgpt.me/
 
