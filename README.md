@@ -40,4 +40,4 @@ https://pay.aichatgpt.me/
 # Tips
 部分手机会遇到文本弹窗的情况，请先用Siri语音运行一次Ai助手，进行第一次问答，一路点允许，直到报错。再次从快捷指令中打开Ai助手即可正常使用！！！
 
-*鸣谢：https://github.com/Daiyimo/Access-chatGPT-in-Siri
+* 鸣谢：https://github.com/Daiyimo/Access-chatGPT-in-Siri
