@@ -1,5 +1,7 @@
 # ChatGPT for Siri
 
+### ChatGPT for Siri快捷指令语音版
+
 🎉 这是一个将ChatGPT集成到Siri的项目，提供快捷命令Siri唤醒使用，无需登录和VPN，也无需账号。
 
 # 下载AI助手快捷命令
