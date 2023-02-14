@@ -10,7 +10,7 @@
 
 https://aichatgpt.me/up （实时更新）
 
-https://www.icloud.com/shortcuts/24b6606252f8469296495bc9bc63b5a0 （iCloud）
+https://www.icloud.com/shortcuts/109788ea4d2f461088b859c7e7718ed8 （iCloud）
 
 # 网页版
 
