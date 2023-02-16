@@ -8,19 +8,19 @@
 
 💻 下载地址：
 
-https://aichatgpt.me/up （实时更新）
+https://www.tdchat.com/up （实时更新）
 
-https://www.icloud.com/shortcuts/109788ea4d2f461088b859c7e7718ed8 （iCloud）
+https://www.icloud.com/shortcuts/69407bdc8ba1483986d53f2474ec2aed（iCloud）
 
 # 网页版
 
 🌐 网页版支持中文描述AI图绘制，速度更快：
 
-https://aichatgpt.me/
+https://www.tdchat.com/
 
 💰 在这里您可以购买ChatGPT账号和APIKEY（支持一下）：
 
-https://pay.aichatgpt.me/
+https://pay.tdchat.com/
 
 # APIKEY说明
 
