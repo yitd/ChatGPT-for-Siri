@@ -10,7 +10,7 @@
 
 https://www.tdchat.com/up （实时更新）
 
-https://www.icloud.com/shortcuts/69407bdc8ba1483986d53f2474ec2aed（iCloud）
+https://www.icloud.com/shortcuts/69407bdc8ba1483986d53f2474ec2aed （iCloud）
 
 # 网页版
 
