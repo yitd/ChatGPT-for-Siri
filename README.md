@@ -10,13 +10,15 @@
 
 https://www.tdchat.com/up （实时更新）
 
-https://www.icloud.com/shortcuts/69407bdc8ba1483986d53f2474ec2aed （iCloud）
+https://www.icloud.com/shortcuts/7c8aeb4519ad4c989b2b495dbc2073b7 （iCloud）
 
 # 网页版
 
 🌐 网页版支持中文描述AI图绘制，速度更快：
 
 https://www.tdchat.com/
+
+进阶玩法：https://www.tdchat.com/playing.html
 
 💰 在这里您可以购买ChatGPT账号和APIKEY（支持一下）：
 
