@@ -8,7 +8,7 @@
 
 💻 下载地址：
 
-https://www.tdchat.com/siri （实时更新）
+https://www.tdchat.com/Siri.html （实时更新）
 
 https://www.icloud.com/shortcuts/62c68afb63eb45c6867ebc0def36a3c7 （iCloud）
 
