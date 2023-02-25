@@ -8,9 +8,9 @@
 
 💻 下载地址：
 
-https://www.tdchat.com/up （实时更新）
+https://www.tdchat.com/siri （实时更新）
 
-https://www.icloud.com/shortcuts/7c8aeb4519ad4c989b2b495dbc2073b7 （iCloud）
+https://www.icloud.com/shortcuts/62c68afb63eb45c6867ebc0def36a3c7 （iCloud）
 
 # 网页版
 
