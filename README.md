@@ -2,7 +2,7 @@
 
 ### ChatGPT for Siri快捷指令语音版
 
-🎉 这是一个将ChatGPT集成到Siri的项目，提供快捷命令Siri唤醒使用，无需登录和梯子，也无需账号。
+🎉 这是一个将ChatGPT集成到Siri的项目，提供快捷命令Siri唤醒使用，无需登录和梯子，也无需账号，已更新gpt-3.5-turbo。
 
 # 下载AI助手快捷指令
 
@@ -10,7 +10,7 @@
 
 https://www.tdchat.com/Siri.html （实时更新）
 
-https://www.icloud.com/shortcuts/62c68afb63eb45c6867ebc0def36a3c7 （iCloud）
+https://www.icloud.com/shortcuts/70762a9387504ff2bfd9f10cd58ee9fe （iCloud）
 
 # 网页版
 
