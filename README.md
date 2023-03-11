@@ -10,7 +10,11 @@
 
 https://www.tdchat.com/Siri.html （实时更新）
 
-https://www.icloud.com/shortcuts/70762a9387504ff2bfd9f10cd58ee9fe （iCloud）
+https://www.icloud.com/shortcuts/88f44b6cc6fb459d9088988a0da83c99 （iCloud）
+
+💰 在这里您可以购买ChatGPT账号和APIKEY：
+
+https://pay.tdchat.com/
 
 # 网页版
 
@@ -20,13 +24,9 @@ https://www.tdchat.com/
 
 进阶玩法：https://www.tdchat.com/playing.html
 
-💰 在这里您可以购买ChatGPT账号和APIKEY（支持一下）：
-
-https://pay.tdchat.com/
-
 # APIKEY说明
 
-🔑 如果您有APIKEY，请在文本区域中填入，不填写APIKEY将最多输出300字（使用共享库中的APIKEY，作者承担费用），您可以点击编辑-底部的分享按钮-创建桌面图标。
+🔑 如果您有APIKEY，请在文本区域中填入，不填写APIKEY也可以每日使用10次，您可以点击编辑-底部的分享按钮-创建桌面图标。
 
 ![QQ截图20230214013323.jpg](QQ截图20230214013323.jpg)
 
